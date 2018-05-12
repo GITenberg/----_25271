@@ -1,0 +1,31 @@
+_repo: '----_25271'
+_version: 0.1.0
+alternative_title: Zhao hua xi shi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lu, Xun
+    aliases:
+    - 魯迅
+    - Zhou, Shuren
+    birthdate: 1881
+    deathdate: 1936
+    gutenberg_agent_id: '26193'
+    url: http://www.gutenberg.org/2009/agents/26193
+    wikipedia: http://en.wikipedia.org/wiki/Lu_Xun
+description: ''
+gutenberg_issued: '2008-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25271'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Essays'
+title: 朝花夕拾
+url: http://www.gutenberg.org/ebooks/25271
